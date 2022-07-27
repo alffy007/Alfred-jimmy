@@ -170,3 +170,17 @@ transition: 0.2s;
 
     }
 }
+@media (max-width: 374px){
+    .showcase,
+    .showcase header {
+        padding: 20px;
+    }
+    .text h2 {
+        font-size: 1em;
+        
+    }
+    .text h3{
+        font-size:0.5em;
+
+    }
+}
